@@ -1,0 +1,6 @@
+{
+  "name": "NFT TEST Collection",
+  "description": "This is a test collection for our awesome launchpad. 1000 unique items.",
+  "image": "https://solodank.github.io/my-nft-assets/images/collection.png",
+  "marketplace": "getgems.io"
+}
